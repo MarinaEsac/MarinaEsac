@@ -19,9 +19,11 @@
 </p>
 
 ---
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,javascript,typescript,html,css,bootstrap,cs,dotnet,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,javascript,typescript,html,css,bootstrap,cs" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/react--i18next-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
