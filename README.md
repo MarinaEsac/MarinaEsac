@@ -25,14 +25,3 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,javascript,typescript,html,css,bootstrap,cs,dotnet,mysql,git,github,vscode" />
 </p>
-
-### Other Skills
-
-- 💡 Object-Oriented Programming (OOP)
-- 🗄️ Database
-- 📊 Data Analysis
-
-### Languages
-
-- 🇪🇬 Arabic (Native)
-- 🇺🇸 English (Fluent)
